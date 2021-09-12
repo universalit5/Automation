@@ -1,1 +1,1 @@
-This is for demo for integration with jenkins
+This is for demo for integration with sssjenkins
