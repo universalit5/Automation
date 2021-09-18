@@ -5,4 +5,8 @@ public class HelloWorld {
          System.out.println("This demo for no conflict");
         
     }
+
+    void hello() {
+
+    }
 }
