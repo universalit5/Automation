@@ -20,7 +20,7 @@ public class login {
 
     @Given("user is on login page")
     public void user_is_on_login_page() {
-        log.info("User is on login page");
+        log.info("User is on login pageeeee");
 
         System.out.println("User is on log on page");
     }
