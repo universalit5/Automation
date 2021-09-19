@@ -1,5 +1,5 @@
 public class HelloWorld {
-    public staticc void main(String[] args) {
+    public static void main(String[] args) {
         System.out.println("This is my first github commit integrating with jenkinsssss");
         System.out.println("This is commit from feature into masterr");
          System.out.println("This demo for no conflict");
